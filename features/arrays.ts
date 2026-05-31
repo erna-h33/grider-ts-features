@@ -1,3 +1,6 @@
+// When do we use arrays?
+// Any time we need to represent a collection of records with some arbitrary order, we can use an array. Arrays are also useful when we want to represent a list of values that are all of the same type.
+
 const carMakers = ['ford', 'toyota', 'chevy'];
 const dates = [new Date(), new Date()];
 
