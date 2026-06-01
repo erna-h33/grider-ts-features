@@ -4,7 +4,7 @@ const drink = {
   sugar: 40,
 };
 
-// Aliases
+// Type Alias
 type Drink = [string, boolean, number];
 
 // A tuple is an array with a fixed number of elements whose types are known
